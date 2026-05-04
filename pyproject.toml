@@ -1,0 +1,23 @@
+[project]
+name = "projet-mlops"
+version = "0.1.0"
+description = "Pipeline MLOps e-commerce : dashboard, API REST et modèle de prédiction churn"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dash>=4.1.0",
+    "fastapi>=0.136.1",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "psycopg2-binary>=2.9.12",
+    "python-dotenv>=1.0.0",
+    "scikit-learn>=1.8.0",
+    "sqlalchemy>=2.0.49",
+    "uvicorn>=0.46.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "httpx>=0.27",
+    "pytest>=8.0",
+]

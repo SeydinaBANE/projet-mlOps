@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Variables d'environnement (contient les credentials)
+.env
+
+# Artefacts ML (régénérés par ml/churn_model.py)
+*.pkl
