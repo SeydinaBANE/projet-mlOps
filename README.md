@@ -1,5 +1,14 @@
 # E-commerce MLOps Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-2.8-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Dash-Dashboard-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 Pipeline de données et ML complet simulant un système e-commerce réel.
 
 ## Architecture
